@@ -41,7 +41,3 @@ Install the required packages
 
 Upload the files in the root folder and select Python 3 as the runtime type and GPU as the harware accelerator.
 
-## Group Members
-
-- Rakhee (Canvas ID: 25180625)
-- Shantanu Acharya (Canvas ID: 25180630)
