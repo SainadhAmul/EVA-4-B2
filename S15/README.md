@@ -11,8 +11,8 @@ In Image Segmentation, the machine has to partition the image into different seg
 In Depth Estimation, the machine has to extract the depth information of the foreground entities from a single image. In the example below you can see how our well my model can extract the depth information (on the right) from an image (on the left).
 
 <p align="center">
-  <img src="images/bg_fg_depth.jpeg">
-  <img src="images/depth.jpeg">
+  <img src="images/bg_fg_mask.png">
+  <img src="images/depth.png">
 </p>
 
 
