@@ -4,8 +4,8 @@
 In Image Segmentation, the machine has to partition the image into different segments, each of them representing a different entity. In the example below you can see how my model separated the image on the left into segments (image on the right).
 
 <p align="center">
-  <img src="images/bg_fg_mask.jpeg">
-  <img src="images/mask.jpeg">
+  <img src="images/bg_fg_mask.png">
+  <img src="images/mask.png">
 </p>
 
 In Depth Estimation, the machine has to extract the depth information of the foreground entities from a single image. In the example below you can see how our well my model can extract the depth information (on the right) from an image (on the left).
