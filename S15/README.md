@@ -12,7 +12,7 @@ In Depth Estimation, the machine has to extract the depth information of the for
 
 <p align="center">
   <img src="images/bg_fg_mask.png">
-  <img src="images/depth.png">
+  <img src="images/bg_fg_depth_map_grid.png">
 </p>
 
 
